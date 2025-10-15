@@ -6,5 +6,5 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "fastmcp>=2.12.4",
-    aiosqlite
+    "aiosqlite"
 ]
